@@ -6,6 +6,11 @@
 </h1>
 <h3 align="center">Student of Computer Science and Engineering</h3>
 
+##### Stats:
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Razi-Rahman&theme=radical&show_icons=true" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razi-Rahman&theme=radical&layout=compact" /><br> 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razi-rahman&label=Profile%20views&color=0e75b6&style=flat" alt="razi-rahman" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=razi-rahman" alt="razi-rahman" /></a> </p>
