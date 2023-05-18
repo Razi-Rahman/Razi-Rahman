@@ -1,5 +1,9 @@
 
-<h1 align="center">I'm MD. Sydur Rahman Razi</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Sydur+Rahman+Razi;&center=true&size=30">
+  </a>
+</h1>
 <h3 align="center">Student of Computer Science and Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razi-rahman&label=Profile%20views&color=0e75b6&style=flat" alt="razi-rahman" /> </p>
